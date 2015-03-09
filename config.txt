@@ -1,0 +1,11 @@
+#initramfs initramfs.gz  0x00a00000
+gpu_mem_512=256
+gpu_mem_256=128
+initial_turbo=1
+disable_splash=1
+arm_freq=840
+core_freq=275
+sdram_freq=400
+over_voltage=0
+decode_WVC1=0x9981915
+decode_MPG2=0x325cde4e
